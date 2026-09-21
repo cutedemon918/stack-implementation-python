@@ -1,6 +1,5 @@
 # stack-implementation-python
-impementation of Stack using Python
-# Stack Implementation Using Python
+impementation of Stack# Stack Implementation Using Python
 
 A menu-driven Python program that demonstrates the implementation of a Stack data structure.
 
